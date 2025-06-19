@@ -1,4 +1,3 @@
-````markdown
 # Sort Google Scholar — Interactive Notebook Demo
 
 This repository contains a **Jupyter Notebook sandbox** that lets you try the
